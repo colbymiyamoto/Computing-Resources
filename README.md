@@ -9,6 +9,7 @@ An assortment of links and bookmarks I've collected.
 * [TCP/IP Network Troubleshooting](http://www.softpanorama.org/netorama.shtml)
 * [htop explained](https://peteris.rocks/blog/htop/)
 * [DNS for Rocket Scientists](http://www.zytrax.com/books/dns/)
+* [IT eBooks Search Engine](http://it-ebooks-search.info/)
 
 #### Linux
 * [The Linux Documentation Project](http://www.tldp.org/guides.html)
@@ -18,6 +19,7 @@ An assortment of links and bookmarks I've collected.
 * [Evolution of Shells in Linux](https://www.ibm.com/developerworks/library/l-linux-shells/)
 * [Linux Shell Scripting Tutorial (LSST) v2.0](https://bash.cyberciti.biz/guide/Main_Page)
 * [Linux vi and vim editor: Tutorial and advanced features](http://www.yolinux.com/TUTORIALS/LinuxTutorialAdvanced_vi.html)
+* [Derek Wyatt Vim Tutorials](http://derekwyatt.org/vim/tutorials/advanced/)
 * [Introduction to SCCS](http://cmd.inp.nsk.su/old/cmd2/manuals/unix/UNIX_Unleashed/ch26.htm)
 * [A Simple Makefile Tutorial](http://www.cs.colby.edu/maxwell/courses/tutorials/maketutor/)
 * [Terminal Mail and Linux Security Mail](http://www.geeksforgeeks.org/terminal-mail-linux-security/)
@@ -57,3 +59,6 @@ An assortment of links and bookmarks I've collected.
 * [Arstechnica](https://arstechnica.com/)
 * [AnandTech](http://www.anandtech.com/)
 * [TechCrunch](https://techcrunch.com/)
+* [Dzone](https://dzone.com/links)
+
+#### Gaming
