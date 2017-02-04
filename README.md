@@ -17,6 +17,7 @@ An assortment of links and bookmarks I've collected.
 * [RHEL System Administrator's Guide](https://access.redhat.com/documentation/en-US/Red_Hat_Enterprise_Linux/7/pdf/System_Administrators_Guide/Red_Hat_Enterprise_Linux-7-System_Administrators_Guide-en-US.pdf)
 * [Evolution of Shells in Linux](https://www.ibm.com/developerworks/library/l-linux-shells/)
 * [Linux Shell Scripting Tutorial (LSST) v2.0](https://bash.cyberciti.biz/guide/Main_Page)
+* [Linux vi and vim editor: Tutorial and advanced features](http://www.yolinux.com/TUTORIALS/LinuxTutorialAdvanced_vi.html)
 * [Introduction to SCCS](http://cmd.inp.nsk.su/old/cmd2/manuals/unix/UNIX_Unleashed/ch26.htm)
 * [A Simple Makefile Tutorial](http://www.cs.colby.edu/maxwell/courses/tutorials/maketutor/)
 * [Terminal Mail and Linux Security Mail](http://www.geeksforgeeks.org/terminal-mail-linux-security/)
@@ -27,9 +28,24 @@ An assortment of links and bookmarks I've collected.
 
 #### Programming
 * [GeeksforGeeks](http://www.geeksforgeeks.org/)
+* [TutorialsPoint](http://www.tutorialspoint.com/index.htm)
 * [What is compiler, linker, loader?](https://stackoverflow.com/questions/3996651/what-is-compiler-linker-loader)
 * [C Programming Bootcamp](http://www.gribblelab.org/CBootCamp/index.html)
-* [Making Magic with WebSocketrs and CSS3](https://medium.com/outsystems-engineering/making-magic-with-websockets-and-css3-ec22c1dcc8a8#.uxmi0bkvc)
+* [Making Magic with WebSockets and CSS3](https://medium.com/outsystems-engineering/making-magic-with-websockets-and-css3-ec22c1dcc8a8#.uxmi0bkvc)
+
+#### Mathematics
+* [List of Algorithms](https://en.wikipedia.org/wiki/List_of_algorithms)
+* [Feynman Lectures](http://www.feynmanlectures.caltech.edu/)
+* [2010 Mathematics Subject Classification](http://www.ams.org/mathscinet/msc/msc2010.html)
+* [Putnam Archive](http://kskedlaya.org/putnam-archive/)
+* [Theorem of the Day](http://www.theoremoftheday.org/Theorems.html)
+* [Immersive Linear Algebra](http://immersivemath.com/ila/index.html)
+* [Book of Proof](http://www.people.vcu.edu/~rhammack/BookOfProof/)
+* [List of important publications in mathematics](https://en.wikipedia.org/wiki/List_of_important_publications_in_mathematics)
+* [How to write a 21st century proof](http://lamport.azurewebsites.net/pubs/proof.pdf)
+* [Information Geometry](http://math.ucr.edu/home/baez/information/)
+* [Univariate Distribution Relationships](http://www.math.wm.edu/~leemis/chart/UDR/UDR.html)
+* [Paul's Online Math Notes](http://tutorial.math.lamar.edu/)
 
 #### Other
 * [OS Dev Wiki](http://wiki.osdev.org/Main_Page)
