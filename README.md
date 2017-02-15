@@ -48,17 +48,9 @@ An assortment of links and bookmarks I've collected.
 * [Information Geometry](http://math.ucr.edu/home/baez/information/)
 * [Univariate Distribution Relationships](http://www.math.wm.edu/~leemis/chart/UDR/UDR.html)
 * [Paul's Online Math Notes](http://tutorial.math.lamar.edu/)
+* [Better Explained](https://betterexplained.com/)
 
 #### Other
 * [OS Dev Wiki](http://wiki.osdev.org/Main_Page)
 * [No Excuse List](http://noexcuselist.com/)
 * [Filesystem Hierarchy Standard](http://www.pathname.com/fhs/)
-
-#### News Sites
-* [Unixmen](https://www.unixmen.com/)
-* [Arstechnica](https://arstechnica.com/)
-* [AnandTech](http://www.anandtech.com/)
-* [TechCrunch](https://techcrunch.com/)
-* [Dzone](https://dzone.com/links)
-
-#### Gaming
