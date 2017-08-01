@@ -1,4 +1,4 @@
-# Computing-Resources
+# Computing Resources
 An assortment of links and bookmarks I've collected.
 
 #### Networking
