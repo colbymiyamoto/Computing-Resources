@@ -11,7 +11,7 @@ An assortment of links and bookmarks I've collected.
 * [DNS for Rocket Scientists](http://www.zytrax.com/books/dns/)
 * [IT eBooks Search Engine](http://it-ebooks-search.info/)
 
-#### Linux
+#### Linux / Unix
 * [The Linux Documentation Project](http://www.tldp.org/guides.html)
 * [Embedded Linux Wiki](http://elinux.org/Main_Page)
 * [The Linux Information Project](http://www.linfo.org/main_index.html)
@@ -28,11 +28,22 @@ An assortment of links and bookmarks I've collected.
 * [CIFS vs Samba](http://unix.stackexchange.com/questions/34742/cifs-vs-samba-what-are-the-differences)
 * [Unix Socket vs TCP IP Socket](http://serverfault.com/questions/124517/whats-the-difference-between-unix-socket-and-tcp-ip-socket)
 
+#### Operating Systems
+* [Operating Systems: Three Easy Pieces](http://pages.cs.wisc.edu/~remzi/OSTEP/)
+
+#### RAM
+* [CAS Latency](https://en.wikipedia.org/wiki/CAS_latency)
+
 #### Programming
 * [GeeksforGeeks](http://www.geeksforgeeks.org/)
 * [TutorialsPoint](http://www.tutorialspoint.com/index.htm)
 * [What is compiler, linker, loader?](https://stackoverflow.com/questions/3996651/what-is-compiler-linker-loader)
 * [C Programming Bootcamp](http://www.gribblelab.org/CBootCamp/index.html)
+
+#### Web Development
+* [css-tricks](https://css-tricks.com/)
+* [Hacks Mozilla: A few HTML tips](https://hacks.mozilla.org/2016/08/a-few-html-tips/)
+* [w3clan Tutorial Network](https://w3clan.com/)
 * [Making Magic with WebSockets and CSS3](https://medium.com/outsystems-engineering/making-magic-with-websockets-and-css3-ec22c1dcc8a8#.uxmi0bkvc)
 
 #### Mathematics
@@ -54,3 +65,4 @@ An assortment of links and bookmarks I've collected.
 * [OS Dev Wiki](http://wiki.osdev.org/Main_Page)
 * [No Excuse List](http://noexcuselist.com/)
 * [Filesystem Hierarchy Standard](http://www.pathname.com/fhs/)
+* [How Vsync works and why people loathe it](https://hardforum.com/threads/how-vsync-works-and-why-people-loathe-it.928593/page-6)
